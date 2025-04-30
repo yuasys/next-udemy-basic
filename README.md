@@ -1,3 +1,7 @@
+📌このリポジトリの原典はUdemy講座「[【Next.js】フルスタック開発基本講座(TypeScript/Prisma/Auth)【脱初心者/わかりやすさ重視】](udemy.com/course/nextjs-basic/)」です。
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
